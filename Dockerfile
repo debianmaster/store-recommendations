@@ -1,4 +1,4 @@
-FROM ruby:2.3
+FROM ruby:2.4.1-alpine3.6
 
 RUN mkdir -p /opt/microservices
 COPY . /opt/microservices/
