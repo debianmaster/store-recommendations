@@ -1,11 +1,16 @@
-[{
-	product_id:'cable_19',
-	name:"RecoWire",title:"RecoWire",
-	img:'img/storeImages/08566-01-L_l_th.jpg',
-	images:['storeImages/08566-01-L_l_th.jpg'],
-	documents:"Wire",
-	features:"Wire",
-	shipping:11,
-	caption:"Cable Wire",
-	price:20,subCat:1
-}]
+[
+  {
+    "product_id": "cable_19","name": "RecoWire",
+    "title": "RecoWire",
+    "img": "img/storeImages/08566-01-L_l_th.jpg",
+    "images": [
+      "storeImages/08566-01-L_l_th.jpg"
+    ],
+    "documents": "Wire",
+    "features": "Wire",
+    "shipping": 11,
+    "caption": "Cable Wire",
+    "price": 20,
+    "subCat": 1
+  }
+]

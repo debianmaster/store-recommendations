@@ -8,7 +8,7 @@ class Server < WEBrick::HTTPServlet::AbstractServlet
 
   def do_GET(request, response)
     response.status = 200
-    response['Content-Type'] = 'application/text'
+    response['Content-Type'] = 'application/json'
     response.body = @json
   end
 end
