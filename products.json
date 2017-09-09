@@ -6,10 +6,10 @@
     "images": [
       "storeImages/08566-01-L_l_th.jpg"
     ],
-    "documents": "Wire",
-    "features": "Wire",
+    "documents": "RecoWire",
+    "features": "RecoWire",
     "shipping": 11,
-    "caption": "Cable Wire",
+    "caption": "Reco Cable Wire",
     "price": 20,
     "subCat": 1
   }
